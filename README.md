@@ -2,12 +2,12 @@
 
 #### _README Exercise for Epicodus Bootcamp, 01.04.2019_
 
-#### By _**By Theary Im**_
+#### By _**Theary Im**_
 
 ## Description
 
 _{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
-_This is a webpage about what I learn at Epicodus including projects and my resume._
+_This is a webpage about what I learn at Epicodus including projects things about me._
 
 ## Setup/Installation Requirements
 
