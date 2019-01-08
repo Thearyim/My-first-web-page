@@ -1,18 +1,20 @@
-# _Theary's First Webpage_
+# _Theary's and Mark's First Webpage_
 
-#### _README Exercise for Epicodus Bootcamp, 01.04.2019_
+#### _README Exercise for Epicodus Bootcamp, 01.08.2019_
 
-#### By _**Theary Im**_
+#### By _**Theary Im**_and_**Mark Strickland_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
-_This is a webpage about what I learn at Epicodus including projects things about me._
+_This is a webpage about what we learn at [Epicodus] (https://www.epicodus.com/). Yesterday we learned about the basics of HTML and Github. We learned how to use Atom and the bash command line._
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
+* _On your desktop, go to the top level directory where you want to install the repository, for example, /Users/Guest/desktop/._
+* _Clone the repository:_
+
+  git clone https://github.com/Thearyim/My-first-web-page
+
 * _in a simple_
 * _easy-to-understand_
 * _format_
