@@ -2,7 +2,7 @@
 
 #### _README Exercise for Epicodus Bootcamp, 01.08.2019_
 
-#### By _**Theary Im**_and_**Mark Strickland_
+#### By _**Theary Im and Mark Strickland**_
 
 ## Description
 
